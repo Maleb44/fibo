@@ -1,4 +1,4 @@
-## Finecci number
+## Fibonacci number
 #
 def fib(n):
     if n == 0:
